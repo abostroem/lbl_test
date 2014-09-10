@@ -1,3 +1,2 @@
 deneb
 Castor
-Gemini
